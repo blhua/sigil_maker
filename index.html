@@ -57,29 +57,7 @@ word-wrap:break-word;
     <p style="font-size:2rem">Made for Annie with love <3</p>
 </div>
   
-<script type="text/python">
-from browser import document, bind
-
-conv={"a":1,"b":2,"c":3,"d":4,"e":5,"f":6,"g":7,"h":8,"i":9,"j":1,"k":2,"l":3,"m":4,"n":5,"o":6,"p":7,"q":8,"r":9,"s":1,"t":2,"u":3,"v":4,"w":5,"x":6,"y":7,"z":8}
-
-def get_input(event):
-    result=document["input1"].value
-    
-    if result !="":
-        sigil=""
-
-        for letter in result.lower():
-            if letter in conv:
-                sigil+=str(conv[letter])
-
-        document["result"].clear()
-        document["result_head"].clear()
-        document["result_head"] <= "Sigil:"
-        document["result"] <= sigil
-
-
-document["button1"].bind("click",get_input)    
-</script>
+<script type="text/python" src="sigil_converter.py"></script>
     
 <script>
 var input = document.getElementById("input1");
