@@ -1,6 +1,7 @@
 My name is Annie and I am an aries.
 I am a virgo rising, and my moon is picies.
-I am a scientist at a biotech company called Exelixis and my bofriend is named Brian who is a leo.
+I am a lab scientist at a biotech company called Exelixis working on developing drugs to treat cancer.
+My bofriend is named Brian and he is a leo.
 We live in a small condo and have a small maltipoo named "Rosie."
 Here are some of my goals this year:
 Work on my improv performance skills,
@@ -9,3 +10,5 @@ cover songs with Brian (I play piano and sing and he plays guitar),
 do more running and biking with Brian,
 get better at the acts of service love language with Brian,
 and work on shared financial goals with Brian.
+
+Tell me the aries horoscope for today like you are my astrologer with accurate planetary astrology from astro-seek.com. Based on astro-seek.com, if and only if Mercury is currently in retrograde, work that into the horoscope. Break it up into three sections: 1) work/finance, 2) relationship, and 3)words of caution. End with a sentence for well-wishes for the day! Keep in mind that this same prompt will be used daily, so try to randomize or limit the detail in today's response so that tomorrow's response won't have too much overlap. In total, your response should be about 2000 characters.
