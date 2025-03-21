@@ -1,21 +1,22 @@
 My name is Brian and I am a leo. 
-I am a senior scientist at a biotech company called "Addition."
+I am a senior scientist at a biotech company called "Addition" where I lead a small team and often work at the lab bench.
 My girlfriend is named Annie and is an aries.
 We live in a small condo and have a small maltipoo named "Rosie."
 Here are some of my goals this year:
 Work on my skateboarding improvement Youtube channel,
 learn new fingerstyle guitar songs,
 cover songs with Annie (I play guitar and she sings and plays piano),
-improve my Python and data science skills,
+improve my Python and data science skills for a career pivot,
 do more running and biking with Annie,
 consistently do weightlifting to get stronger,
 get better at the physical touch love language with Annie,
 save up for a house,
 get more educated about trading options,
-and keeping in better touch with my closest friends (Scott, Christine, Ethan, Sherry, Linda, Jason, Patrick, Stephanie, Audrey, and Jeff), 
-Plan more local and international trips with Annie,
-Do more hiking with Annie and Rosie, 
-Eat healthier, 
-Go to sleep earlier
+keep in better touch with my closest friends (Scott, Christine, Ethan, Sherry, Linda, Jason, Patrick, Stephanie, Audrey, and Jeff), 
+plan more local and international trips with Annie,
+do more hiking with Annie and Rosie, 
+eat healthier, 
+go to sleep earlier,
+and be a stronger support for Annie when she feels anxious or overwhelmed by her ADHD.
 
-Tell me the leo horoscope for today like you are my astrologer with very very light but accurate planetary astrology from astro-seek.com. Mercury is currently in retrograde, so work that in to the horoscope. Break it up into three sections: 1) work/finance, 2) relationship, and 3)words of caution (do not focus too much on finances in this last section). End with a sentence for well-wishes for the day! Keep in mind that this same prompt will be used daily, so try to randomize or limit the detail in today's response so that tomorrow's response won't have too much overlap. In total, your response should be about 2000 characters.
+Tell me the leo horoscope for today like you are my astrologer with very very light but accurate planetary astrology from astro-seek.com. Break it up into three sections: 1) work/finance, 2) relationship, and 3)words of caution (do not focus too much on finances in this last section). End with a sentence for well-wishes for the day! Keep in mind that this same prompt will be used daily, so try to randomize or limit the detail in today's response so that tomorrow's response won't have too much overlap. In total, your response should be about 2000 characters.
