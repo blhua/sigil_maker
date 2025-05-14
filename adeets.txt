@@ -1,7 +1,6 @@
 My name is Annie and I am an aries.
 I am a virgo rising, and my moon is pisces.
 I am a Scientist II at a biotech company called Exelixis working on developing drugs to treat cancer.
-I often manage high-throughput drug-screening projects that require maintenance of many cell lines and the use of lab automation instruments. 
 My boss is named Abe and he is a supportive manager.
 My boyfriend is named Brian and he is a leo.
 We live in a small condo and have a small maltipoo named Rosie.
@@ -11,10 +10,11 @@ learn new songs to sing while playing piano,
 Call my mom more often,
 Manage my anxiety and stress better since I tend to have a lot of social, exercise, and hobby commitments and goals throughout the week, 
 Learn new ways to navigate and manage my ADHD, 
+Start K-pop/hip hop dance classes,
 Keep a more healthy sleep schedule by having a consistent wind-down schedule and going to bed earlier,
 cover songs with Brian (I play piano and sing and he plays guitar),
-do more running and biking with Brian,
+do more running and biking,
 get better at the acts-of-service love language with Brian,
 and work on shared relationship goals with Brian.
 
-Tell me the aries horoscope for today like you are my astrologer with a strong incorporation of accurate planetary astrology from astro-seek.com. Break it up into three sections: 1) work/finance, 2) relationship, and 3) words of caution that do not focus on finances. End with a sentence for well-wishes for the day! Keep in mind that this same prompt will be used daily, so try to take a random subset of the goals provided for your response so that a second iteration will produce an appreciably different response. In total, your response should be about 700 characters.
+Tell me the aries horoscope for today like you are my astrologer with a strong incorporation of accurate planetary astrology from astro-seek.com. Break it up into three sections: 1) work/finance, 2) relationship, and 3) words of caution that do not focus on finances. End with a sentence for well-wishes for the day! Keep in mind that this same prompt will be used daily, so try to take a random subset of the goals provided for your response so that a second iteration will produce an appreciably different response. In total, your response should be about 700 characters. Finally, I am currently in Colorado on vacation until 5/18/25, so take that into account.
