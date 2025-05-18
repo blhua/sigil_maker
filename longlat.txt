@@ -1,1 +1,1 @@
-39.8389:-105.0167:Denver, CO:America/Denver
+38.3155:-122.7117:Cotati, CA:America/Los_Angeles
