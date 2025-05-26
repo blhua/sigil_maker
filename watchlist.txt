@@ -29,7 +29,7 @@ AMZN,
 AVGO,
 BA,
 BAC,
-C
+C,
 GOOGL,
 JNJ,
 LLY,
